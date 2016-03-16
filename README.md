@@ -2,9 +2,9 @@
 Documentation of hole project is stored here
 
 # Team Members:
-1 2013BCS065  Selokar Mrunal K. | mrunal_selokar@outlook.com <br/>
-2 2013BCS072  Bobade Suraj A.   | suraj.bobade@outlook.com <br/>
-3 2013BIT039  Regoti Sujata S.  | sujata.regoti@gmail.com
+1  2013BCS065   Selokar Mrunal K.  | mrunal_selokar@outlook.com <br/>
+2  2013BCS072   Bobade Suraj A.    | suraj.bobade@outlook.com <br/>
+3  2013BIT039   Regoti Sujata S.   | sujata.regoti@gmail.com
 
 #Overview:
   "social-Me" will be an Application (both Android App and Website) designed and developed specifically to handle most widely used social networking Apps like WhatsApp, Hike, Facebook, Twitter, etc. As per now, App will be concentrated on Updating Status (with or without Images), changing Profile photos on one go (posting on all apps on a single click)
