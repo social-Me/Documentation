@@ -2,8 +2,8 @@
 Documentation of hole project is stored here
 
 # Team Members:
-1 2013BCS065  Selokar Mrunal K. | mrunal_selokar@outlook.com
-2 2013BCS072  Bobade Suraj A.   | suraj.bobade@outlook.com
+1 2013BCS065  Selokar Mrunal K. | mrunal_selokar@outlook.com <br/>
+2 2013BCS072  Bobade Suraj A.   | suraj.bobade@outlook.com <br/>
 3 2013BIT039  Regoti Sujata S.  | sujata.regoti@gmail.com
 
 #Overview:
